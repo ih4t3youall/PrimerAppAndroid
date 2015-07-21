@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PrimerAplicacion</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hola_manola">Hola manola!</string>
+    <string name="title_activity_actividad_martin">Actividad_martin</string>
+    <string name="puto">Puto</string>
+    <string name="title_activity_gps">gpsActivity</string>
+    <string name="title_activity_mapa">Mapa</string>
+</resources>
